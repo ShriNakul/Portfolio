@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Bootstrap",
+    "desc": "I have been using bootstrap in my projects for a few years now"
+  },
+  {
+    "name": "React",
+    "desc": "I love react and love to code with it every day"
+  },
+  {
+    "name": "Node + Express",
+    "desc": "In the js backend, this combo helps me lead every project to success"
+  },
+  {
+    "name": "SQL",
+    "desc": "I use Postgres efficiently in the backend"
+  },
+  {
+    "name": "GitHub + Git",
+    "desc": "I use GitHub pages and Git when building Personal React Apps"
+  },
+  {
+    "name": "CodeSandBox and VsCode",
+    "desc": "I MAXIMIZE what these code editors can do."
+  }
+]

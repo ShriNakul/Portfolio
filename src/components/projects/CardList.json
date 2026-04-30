@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Pda",
+    "link": "https://shrinakul.github.io/PhoenixDanceAcademyCanada/",
+    "image": "./Pda.png",
+    "paragraph": "A website made for a dance studio"
+  },
+  {
+    "name": "Going Rogue",
+    "link": "https://vtmzwc.csb.app/",
+    "image": "./GngRge.png",
+    "paragraph": "A game made using threejs"
+  },
+  {
+    "name": "Eat-N-Split",
+    "link": "https://github.com/ShriNakul/Eat-N-Split",
+    "image": "./Eat-N-Split.png",
+    "paragraph": "A project where users can split a bill with their friends"
+  },
+  {
+    "name": "Far Away",
+    "link": "https://github.com/ShriNakul/FarAway",
+    "image": "./FarAway.png",
+    "paragraph": "A full travel planner"
+  },
+  {
+    "name": "FlashCards",
+    "link": "https://github.com/ShriNakul/FlashCards",
+    "image": "./Flashcards.png",
+    "paragraph": "Flashcards for studying"
+  },
+  {
+    "name": "Github",
+    "link": "https://github.com/ShriNakul",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg",
+    "paragraph": "I have a few other projects you can check out on Github"
+  },
+
+  {
+    "name": "Yours can be next",
+    "link": "https://mail.google.com/mail/?view=cm&fs=1&to=shrinram2013@gmail.com&su=Inquiry%20about%20services&body=Hi,%20I%27m%20interested%20in%20working%20with%20you...",
+    "image": "",
+    "paragraph": "Click on this to work with me"
+  }
+]
