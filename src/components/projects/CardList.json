@@ -12,6 +12,12 @@
     "paragraph": "A game made using threejs"
   },
   {
+    "name": "WANTANIME: アニメを見たいんですよね？",
+    "link": "https://shrinakul.github.io/WANTANIME/",
+    "image": "./WANTANIME.png",
+    "paragraph": "A website where you can find anime to watch based on your preferences. It provides a user-friendly interface for discovering new shows."
+  },
+  {
     "name": "Eat-N-Split",
     "link": "https://github.com/ShriNakul/Eat-N-Split",
     "image": "./Eat-N-Split.png",
@@ -41,11 +47,5 @@
     "link": "https://mail.google.com/mail/?view=cm&fs=1&to=shrinram2013@gmail.com&su=Inquiry%20about%20services&body=Hi,%20I%27m%20interested%20in%20working%20with%20you...",
     "image": "",
     "paragraph": "Click on this to work with me"
-  },
-  {
-    "name": "WANTANIME: アニメを見たいんですよね？",
-    "link": "https://shrinakul.github.io/WANTANIME/",
-    "image": "./WANTANIME.png",
-    "paragraph": "A website where you can find anime to watch based on your preferences. It provides a user-friendly interface for discovering new shows."
   }
 ]
