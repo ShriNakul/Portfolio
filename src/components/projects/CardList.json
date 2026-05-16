@@ -31,9 +31,15 @@
   },
   {
     "name": "FlashCards",
-    "link": "https://github.com/ShriNakul/FlashCards",
+    "link": "https://p99tn9.csb.app/",
     "image": "./Flashcards.png",
     "paragraph": "Flashcards for studying"
+  },
+  {
+    "name": "ExchangeRater",
+    "link": "https://shrinakul.github.io/ExchangeRater/",
+    "image": "./ExchangeRater.png",
+    "paragraph": "A currency exchange rate calculator"
   },
   {
     "name": "Github",
